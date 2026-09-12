@@ -19,4 +19,6 @@ bash scripts/run-question.sh "Question-9 Network-Policy" to apply the setup and 
 |----------|-------|-------|
 | Question-01 | Install Argo CD using Helm without CRDs | https://youtu.be/8GzJ-x9ffE0 |
 
+Complete YouTube Playlist: https://youtube.com/playlist?list=PLvZb3tGyqC1TOasSaN36haM5xlCxHQBlA&si=q-9UZrr9RZJcxjoD
+
 More questions can be added by copying the template folder and dropping in the three bash files from the original collection.
